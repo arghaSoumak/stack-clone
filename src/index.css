@@ -24,8 +24,14 @@ a:hover {
 
 input {
     cursor: text;
+    font-family: 'Montserrat', sans-serif;
 }
 
 button {
     cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+}
+
+i {
+    color: #454545;
 }
