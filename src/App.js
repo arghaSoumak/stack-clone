@@ -1,10 +1,10 @@
 import React from 'react'
-// app component
+import Login from "./Components/Login/Login"
 class App extends React.Component {
   render() {
     return (
       <React.Fragment>
-        {/*test your component here*/}
+          <Login />
       </React.Fragment>
     )
 
